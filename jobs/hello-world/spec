@@ -1,0 +1,9 @@
+---
+name: hello-world
+
+templates:
+  run.sh: bin/run
+
+packages: []
+
+properties: {}
